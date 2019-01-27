@@ -1,4 +1,4 @@
-Tech stack: React, React Context API, Next JS, CSS in JS, Axios
+## **__Tech stack__**: React, React Context API, Next JS, CSS in JS, Axios
 
 Routing between pages: Next.js
 
