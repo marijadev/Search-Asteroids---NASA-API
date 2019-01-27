@@ -25,6 +25,8 @@
 **Charts:** name of the asteroid and number of passes near the Earth from 1900 - 1999.
 				Each chart has it's own color based of number of passes
 				Button 'Nazad' leads to previous page
+				
+**Applications Styling:** rough CSS mockup
 
 **Bonus features:** 
 				1. Removing from the list of selected asteroids 
