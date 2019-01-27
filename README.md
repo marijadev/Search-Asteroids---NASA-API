@@ -1,3 +1,6 @@
+### `npm install`
+### `npm run dev`
+
 ## **__Tech stack__**: React, React Context API, Next JS, CSS in JS, Axios
 
 Routing between pages: Next.js
