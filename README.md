@@ -1,5 +1,5 @@
-### `npm install`
-### `npm run dev`
+**`npm install`**
+**`npm run dev`**
 
 ## **__Tech stack__**: React, React Context API, Next JS, CSS in JS, Axios
 
