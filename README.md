@@ -1,7 +1,7 @@
-**`npm install`**
+**`npm install`** - to install all the packages
 
 
-**`npm run dev`**
+**`npm run dev`** - to run the application
 
 ## **__Tech stack__**: React, React Context API, Next JS, CSS in JS, Axios
 
