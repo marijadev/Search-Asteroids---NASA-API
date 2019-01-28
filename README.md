@@ -9,10 +9,10 @@
 
 **Data communication between pages:** React Context API
 
-**Date selection:****** 7 days between two dates. 'Start' date needs to be before the selected 'End' date
+**Date selection:** 7 days between two dates. 'Start' date needs to be before the selected 'End' date
 								Not possible to send the request unless the dates are correctly selected
 
-****API filtering:** Working only with objects that have property 'is_potentially_hazardous_asteroid' === true
+**API filtering:** Working only with objects that have property 'is_potentially_hazardous_asteroid' === true
 								If no data is available, table should display: "Nema selektovanih 	asteroida"
 
 **Input handling:** Searching through list by the asteroid name
